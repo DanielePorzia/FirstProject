@@ -23,9 +23,5 @@ public class Animale {
 	public void setNome(String nome) {
 		this.nome = nome;
 	}
-	public void prova(){
-		System.out.println("prova");
-	}
-	
 
 }
