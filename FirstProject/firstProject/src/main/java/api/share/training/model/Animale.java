@@ -23,5 +23,5 @@ public class Animale {
 	public void setNome(String nome) {
 		this.nome = nome;
 	}
-
+//ciaociao
 }
